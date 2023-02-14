@@ -1,6 +1,6 @@
 # PyTorchの学習済みモデルを自由自在に書き換えたい
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Edit-PyTorch-Model/blob/main/Edit_PyTorch_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Edit-PyTorch-Model/blob/main/Edit_PyTorch_Model.ipynb)
 
 PyTorchには[PyTorch Image Models](https://github.com/rwightman/pytorch-image-models)など学習済モデルがたくさん公開されていて、これを転移学習に使うことも多いです。その際、学習済モデルを少し改造して試したい場合、どうすればいいのか。直接編集するわけではありませんが、同等の効果がある方法をご紹介します。
 
